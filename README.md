@@ -1,9 +1,10 @@
 # layout_website
-html CSS beginner
+## html CSS beginner
 
-layout 
-  
-  -nav
-  -banner
-  -main
-  -footer
+Layout:
+```
+-nav
+-banner
+-main
+-footer
+```
